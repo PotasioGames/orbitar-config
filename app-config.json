@@ -4,7 +4,7 @@
   "platforms": {
     "android": {
       "minSupportedVersion": "1.0.10",
-      "latestVersion": "1.0.11",
+      "latestVersion": "1.0.10",
       "forceUpdate": true,
       "storeUrl": "market://details?id=com.potasiogames.orbitar",
       "storeWebUrl": "https://play.google.com/store/apps/details?id=com.potasiogames.orbitar"
